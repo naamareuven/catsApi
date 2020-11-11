@@ -1,0 +1,5 @@
+/home/naama/Cats/obj/Debug/netcoreapp3.1/Cats.csprojAssemblyReference.cache
+/home/naama/Cats/obj/Debug/netcoreapp3.1/Cats.AssemblyInfoInputs.cache
+/home/naama/Cats/obj/Debug/netcoreapp3.1/Cats.AssemblyInfo.cs
+/home/naama/Cats/obj/Debug/netcoreapp3.1/Cats.csproj.CoreCompileInputs.cache
+/home/naama/Cats/obj/Debug/netcoreapp3.1/Cats.MvcApplicationPartsAssemblyInfo.cache
